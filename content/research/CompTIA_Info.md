@@ -1,42 +1,28 @@
 ---
-title: Writing research posts
-slug: writing-research-posts
-date_published: 2021-11-03T02:33:04.000Z
-date_updated: 2022-04-24T12:35:15.000Z
-tags: How to, Tutorial
-excerpt: This guide will go over all the details and steps required to post a research article.
-cover: 'image.png'
+title: CompTIA benefits with 801 Labs
+slug: comptia-benefits
+date_published: 2025-06-17T18:45:00.000Z
+date_updated: 2025-06-17T18:45:00.000Z
+tags: CompTIA
+excerpt: This page gives an overview of the CompTIA resources available to the community at 801 Labs.
+cover: 'comptia_banner.png'
 author:
-  name: Pips
-  avatar: 'avatars/pips.jpg'
+  name: Wade
+  avatar: 'avatars/wade_pfp.gif'
 ---
 
-Lets talk about how to write a research post to appear on the research portal https://801labs.org/research-portal/1/
+## What is CompTIA
+So what makes CompTIA so praised in tech jobs and how it can help you in the technology community. What the industry has seen  
+is that provided a industry standard unit of measurement for technical knowledge we're able to better focus on the large scale  
+industry needs. That doesn't mean that CompTIA cannot serve even enthusiasts that are look to have a better understanding for
+hobby projects. CompTIA is ranked the number one most desired technical certificate on United States based job boards (CompTIA, n.d.).  
+As if there were not enough CompTIA provides the foundational skills to get you moving in any technical skillset with certifications  
+in [cyber security](https://www.comptia.org/en-us/certifications/security/), [general knowledge](https://www.comptia.org/en-us/certifications/a/), and even [cloud essentials](https://www.comptia.org/en-us/certifications/cloud-essentials-v2).
 
-Previously, we used the platform Ghost to write and publish research articles, how tos, and anouncments. This time around in the new website, we have had the research blog function built directly in. 
-
-All a user has to do to create an article
-* go into [Github](https://github.com/801labs/801labs.org)
-* fork the repo
-* navigate to the `/content/research` directory in the `main` branch.
-* create a new file with a dash seperated name, such as `example-post.md`
-* import the below code block into your new markdown file. This block of code instructs the website on how to display information about the post. This includes tags, a title, a cover image, an author, etc.
+With CompTIA you're provided two forms of education; the first being a CompCERT which allows an individual to undergo a provided  
+educational environment. The benefits of a CompCert is allowing learners to gain needed context without on the job experience. This  
+can be ideal for people entering the technology community for the first time and need a foothold. 
 
 
-```
----
-title: <A solid Title>
-slug: a-good-slug
-date_published: 2018-10-25T02:33:04.000Z
-date_updated: 2018-10-25T02:35:15.000Z
-tags: tag1, tag2
-excerpt: A brief little discription of what your post is about.
-cover: 'folder/for/image.jpg'
-author:
-  name: your name
-  avatar: 'avatars/youravatar.jpeg'
----
-```
-
-* write your post
-* create a pull request with your post
+## References
+* CompTIA (n.d.). Assessing Outcomes, Efficacy and Value. https://partners.comptia.org/docs/default-source/resources/comptia-assessing-outcomes-efficacy-and-value.pdf  
